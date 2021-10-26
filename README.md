@@ -3,6 +3,7 @@
 ***You all know, these are the rules of this game,*** 
 
 ![Rock Paper Scissor Game Rules](https://www.resolve.edu.au/sites/default/files/Rock%20Paper%20Scissors.png)
+
 **How to play**
 
 This is a simple game, you have to install python interpreter to run play this game.</br>
